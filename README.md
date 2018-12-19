@@ -1,1 +1,1 @@
-# labs by Ivan Kuvshinov
+# labs5.github.io 
